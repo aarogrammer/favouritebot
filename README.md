@@ -1,5 +1,6 @@
 # Twitter Favorite Bot
-This NodeJS application allows you to favourite specific tweets  
+This NodeJS application allows you to favourite specific tweets.  
+I use some ES6 syntax so please use Node 7, or change the syntax.
 ## Warning 
 Twitter's API only allows for 100 connections within an hour, per account (not the application), hence the reason for the 5 minute interval.  
 This application wasn't built for spam, just to engage with specific posts.
