@@ -5,8 +5,8 @@ Twitter's API only allows for 100 connections within an hour, per account (not t
 This application wasn't built for spam, just to engage with specific posts.
 
 ## Installation
-1. Clone the repository `git clone https://github.com/aarogrammer/reponame`  
-2. CD in to the directory `CD reponame`  
+1. Clone the repository `git clone https://github.com/aarogrammer/favouritebot.git`  
+2. CD in to the directory `CD favouritebot`  
 3. Install dependencies `npm install`  
 4. Create a Twitter app (https://apps.twitter.com)
 5. Edit Twitter authentication credentials in `auth.js`  
