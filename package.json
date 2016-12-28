@@ -1,0 +1,25 @@
+{
+  "name": "favouritebot",
+  "version": "1.0.0",
+  "description": "An application to favourite specific Tweets by keyword(s).",
+  "main": "app.js",
+  "dependencies": {
+    "twit": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "Twitter Bot",
+    "NodeJS"
+  ],
+  "author": "Aaron Welsh <contact@aaron-welsh.co.uk",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0",
+  "bugs": {
+    "url": ""
+  }
+}
